@@ -1,4 +1,4 @@
-country_code,postal_code ,latitude,longitude,region_id
+country_code,postal_code,latitude,longitude,region_id
 swe,1000,56.16156,15.58661,VD::Blekinge::1000
 swe,1001,60.602778,15.656111,VD::Dalarna::1001
 swe,1002,60.674722,17.144444,VD::Gavleborg::1002
